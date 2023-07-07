@@ -7,3 +7,15 @@ The 'dataset' folder contains 'code_attributes.csv', 'labeled_dataset.csv', and 
 
 ## Scripts
 'scripts' folder contains 'code_attribute_calculation' folder and 'comment_classification_model.ipynb' file. The 'code_attribute_calculation' folder contains the code for the code attribute calculation. The 'comment_classification_model.ipynb' file contains the code of our proposed model.
+
+## Clone the project
+Clone the project </br>
+$ git clone https://github.com/WSU-SEAL/CR-classification-ESEM23.git
+
+## Copyright Information
+Copyright Software Engineering Analytics Lab (SEAL), Wayne State University, 2023
+Authors: Asif Kamal Turzo <asifkamal@wayne.edu> and Amiangshu Bosu <abosu@wayne.edu> </br>
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+version 3 as published by the Free Software Foundation.
