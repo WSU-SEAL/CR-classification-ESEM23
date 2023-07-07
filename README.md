@@ -13,9 +13,29 @@ Clone the project </br>
 $ git clone https://github.com/WSU-SEAL/CR-classification-ESEM23.git
 
 ## Copyright Information
-Copyright Software Engineering Analytics Lab (SEAL), Wayne State University, 2023
+Copyright Software Engineering Analytics Lab (SEAL), Wayne State University, 2023 </br>
 Authors: Asif Kamal Turzo <asifkamal@wayne.edu> and Amiangshu Bosu <abosu@wayne.edu> </br>
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
 version 3 as published by the Free Software Foundation.
+
+## Citation for our paper
+If you use our tool, please cite our paper "Towards Automated Classification of Code Review Feedback to Support Analytics"
+```
+@inproceedings{turzo_towards2023,
+author = {Turzo, Asif Kamal and Faysal, Fahim and Poddar, Ovi and Sarker, Jaydeb and Iqbal, Anindya and Bosu, Amiangshu},
+title = {Towards Automated Classification of Code Review Feedback to Support Analytics},
+year = {2023},
+isbn = {},
+publisher = {},
+address = {},
+url = {},
+doi = {},
+booktitle = {2023 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM)},
+articleno = {},
+numpages = {},
+keywords = {code review, review comment, classification, open source software, analytics, OSS},
+location = {New Orleans, Louisiana, USA},
+series = {ESEM 2023}
+```
