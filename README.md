@@ -17,7 +17,7 @@ $ git clone https://github.com/WSU-SEAL/CR-classification-ESEM23.git
 Copyright Software Engineering Analytics Lab (SEAL), Wayne State University, 2023 </br>
 Authors: Asif Kamal Turzo <asifkamal@wayne.edu> and Amiangshu Bosu <abosu@wayne.edu> </br>
 
-This program is free software; you can redistribute it and/or
+This program is a free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
 version 3 as published by the Free Software Foundation.
 
